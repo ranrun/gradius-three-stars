@@ -8,7 +8,7 @@
 
 import ScreenSaver
 
-class GradiusStarsView : ScreenSaverView {
+class GradiusThreeStarsView : ScreenSaverView {
   let myModuleName = "com.ranrun.GradiusThreeStars"
 
   override var hasConfigureSheet: Bool { return false }
